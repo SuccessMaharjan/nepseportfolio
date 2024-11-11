@@ -1,0 +1,10 @@
+target/
+dbt_packages/
+logs/
+nepse/
+.vscode/
+*.env*
+.DS_Store/
+*.csv
+.vscode/
+profiles.yml
